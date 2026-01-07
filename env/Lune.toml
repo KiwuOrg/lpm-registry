@@ -8,5 +8,5 @@ owners = ["sekta"]
 
 [versions."1.0.0"]
 source = "https://github.com/KiwuOrg/lpm-env/archive/refs/tags/1.0.0.zip"
-hash = "sha256-eb065af044b54e1cb4b8bbd434b26d3738a6cbe4adb3182722af291cb03524a2"
+hash = "sha256-aebbd2a65305b7dcb2826e22d38603a9511655a314dfeb2eb84c095b9a3f5f9e"
 dependencies = {}
