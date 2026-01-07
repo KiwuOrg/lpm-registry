@@ -1,0 +1,12 @@
+[package]
+name = "hello"
+description = "LPM Test package"
+repository = "https://github.com/KiwuOrg/lpm-hello"
+owners = ["sekta"]
+
+[versions]
+
+[versions."1.0.0"]
+source = "https://github.com/KiwuOrg/lpm-hello/archive/refs/tags/1.0.0.zip"
+hash = "sha256-eb065af044b54e1cb4b8bbd434b26d3738a6cbe4adb3182722af291cb03524a2"
+dependencies = {}
