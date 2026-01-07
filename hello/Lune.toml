@@ -6,6 +6,11 @@ owners = ["sekta"]
 
 [versions]
 
+[versions."1.0.1"]
+source = "https://github.com/KiwuOrg/lpm-hello/archive/refs/tags/1.0.1.zip"
+hash = "sha256-43ff522d4531ef6aeb48e3d523422f361b2e3c7871c186178950870e1a9a4f8e"
+dependencies = {}
+
 [versions."1.0.0"]
 source = "https://github.com/KiwuOrg/lpm-hello/archive/refs/tags/1.0.0.zip"
 hash = "sha256-eb065af044b54e1cb4b8bbd434b26d3738a6cbe4adb3182722af291cb03524a2"
