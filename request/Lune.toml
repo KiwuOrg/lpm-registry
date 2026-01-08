@@ -1,0 +1,11 @@
+[package]
+name = "request"
+description = "Easy http/https request package"
+repository = "https://github.com/KiwuOrg/lpm-request"
+owners = ["sekta"]
+
+[versions]
+[versions."1.0.0"]
+source = "https://github.com/KiwuOrg/lpm-request/archive/refs/tags/1.0.0.zip"
+hash = "sha256-967074ea7c6db4698258c2fb7963b93c57fe83c707bd6acd953529bbb0647784"
+dependencies = {}
