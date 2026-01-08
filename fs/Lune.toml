@@ -1,0 +1,12 @@
+[package]
+name = "fs"
+description = "Module for easy managing file-system"
+repository = "https://github.com/KiwuOrg/lpm-fs"
+owners = ["sekta"]
+
+[versions]
+
+[versions."1.0.0"]
+source = "https://github.com/KiwuOrg/lpm-fs/archive/refs/tags/1.0.0.zip"
+hash = "sha256-303734d946124c5def579abf5d2c56c442d692bb0bc679f8f27e6ad1710f7e87"
+dependencies = {}
