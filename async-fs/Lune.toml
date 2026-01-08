@@ -1,0 +1,12 @@
+[package]
+name = "fs"
+description = "Async wrapper for @fs package"
+repository = "https://github.com/KiwuOrg/lpm-async-fs"
+owners = ["sekta"]
+
+[versions]
+
+[versions."1.0.0"]
+source = "https://github.com/KiwuOrg/lpm-async-fs/archive/refs/tags/1.0.0.zip"
+hash = "sha256-056758417bc011671a7c9517239f3afae8eb6a84ddeaa39df28c280a36604d0e"
+dependencies = { fs = "1.0.0" }
