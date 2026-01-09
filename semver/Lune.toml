@@ -1,0 +1,12 @@
+[package]
+name = "semver"
+description = "Semver parsing package"
+repository = "https://github.com/KiwuOrg/lpm-semver"
+owners = ["sekta"]
+
+[versions]
+
+[versions."1.0.0"]
+source = "https://github.com/KiwuOrg/lpm-semver/archive/refs/tags/1.0.0.zip"
+hash = "sha256-2fd678a9bfb13a247ac880e6235cd131348ee82f4871344aaf33f965c50710d7"
+dependencies = {}
