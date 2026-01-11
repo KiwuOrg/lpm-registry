@@ -1,0 +1,12 @@
+[package]
+name = "vector3"
+description = "Vector library for 3D"
+repository = "https://github.com/KiwuOrg/lpm-vector3"
+owners = ["sekta"]
+
+[versions]
+
+[versions."1.0.0"]
+source = "https://github.com/KiwuOrg/lpm-vector3/archive/refs/tags/1.0.0.zip"
+hash = "sha256-aaa9ec02aae6a0f2e5aa879f92be6349c86960fd401a4aaad8665371b034ed0c"
+dependencies = {}

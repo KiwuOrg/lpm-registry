@@ -1,0 +1,12 @@
+[package]
+name = "vector2"
+description = "Vector library for 2D"
+repository = "https://github.com/KiwuOrg/lpm-vector2"
+owners = ["sekta"]
+
+[versions]
+
+[versions."1.0.0"]
+source = "https://github.com/KiwuOrg/lpm-vector2/archive/refs/tags/1.0.0.zip"
+hash = "sha256-440c127bd6ff9d0163802a8bb774cd215537edd421fbd9f591980d97770e35b2"
+dependencies = {}
